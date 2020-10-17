@@ -14,8 +14,8 @@
 
 <body>
   <h1> hello world</h1>
-  <!--  
-<script src="js/scripts.js"></script>  -->
+    
+<script src="js/scripts.js"></script>  
 
 
 </body>
